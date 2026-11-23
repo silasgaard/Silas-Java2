@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Bombastic",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "--module-path /Users/silas/Library/Java/JavaFX/javafx-sdk-25.0.5/lib --add-modules javafx.controls --enable-native-access=javafx.graphics"
+        }
+    ]
+}
